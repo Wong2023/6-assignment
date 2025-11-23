@@ -1,0 +1,1 @@
+This project demonstrates a simple Jetpack Compose application that displays four countries using cards arranged in a Column. Each card shows the country name and its flag using emoji characters. The app includes customized card shapes, custom background colors, and full support for dark theme and dynamic color.
